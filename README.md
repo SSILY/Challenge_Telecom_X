@@ -12,9 +12,8 @@ El objetivo principal es identificar patrones y variables que influyen en la eva
 - Construir modelos predictivos para anticipar la evasión de clientes.
 
 ## 📁 Estructura del Proyecto
-- `Challenge_Telecom_X_análisis_de_evasión_de_clientes.ipynb`: Notebook principal con el análisis completo.
 - `TelecomX_Data.json`: Archivo de datos utilizado para el análisis.
-- `TelecomX_final.ipynb`: Versión final o alternativa del notebook.
+- `TelecomX_LATAM.ipynb`: Versión final o alternativa del notebook.
 
 ## 🛠️ Requisitos y Dependencias
 - Python 3.8+
@@ -36,7 +35,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn plotly
    ```bash
    git clone <URL-del-repositorio>
    ```
-2. Abre el notebook `Challenge_Telecom_X_análisis_de_evasión_de_clientes.ipynb` en Jupyter Notebook, JupyterLab o VS Code.
+2. Abre el notebook `TelecomX_LATAM.ipynb` en Jupyter Notebook, JupyterLab o VS Code.
 3. Ejecuta las celdas para reproducir el análisis y visualizar los resultados.
 
 ## 📈 Resultados Principales
@@ -48,5 +47,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn plotly
 ## 🤝 Créditos
 Este proyecto fue desarrollado como parte de un reto de análisis de datos para la formación en ETL y ciencia de datos.
 
----
-¡No dudes en contribuir o sugerir mejoras!
